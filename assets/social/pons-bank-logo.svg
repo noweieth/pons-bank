@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+  <title id="title">Pons Bank</title>
+  <rect width="1024" height="1024" fill="#0b0d0a"/>
+  <rect x="224" y="224" width="576" height="576" rx="149" fill="#c7f36b"/>
+  <svg x="272" y="272" width="480" height="480" viewBox="0 0 32 32">
+    <path d="M16 4.5 27.5 11.5v2.3h-23v-2.3L16 4.5ZM6 15h20v2.5H6V15Zm1.5 3.5h3V25h-3v-6.5Zm7 0h3V25h-3v-6.5Zm7 0h3V25h-3v-6.5ZM5 26h22v2H5v-2Z" fill="#0b0d0a"/>
+    <path d="M13.8 6.5H17c1.8 0 2.8.9 2.8 2.3 0 1.5-1.1 2.4-2.9 2.4H16v1.2h-2.2V6.5Zm2.2 1.7v1.5h.9c.6 0 .9-.3.9-.8s-.3-.8-.9-.8H16Z" fill="#c7f36b"/>
+  </svg>
+</svg>
